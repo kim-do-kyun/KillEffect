@@ -2,3 +2,6 @@ name: KillEffect
 version: '1.0-SNAPSHOT'
 main: org.desp.killEffect.KillEffect
 api-version: '1.20'
+commands:
+  처치효과:
+    aliases : ["cjclgyrhk"]
